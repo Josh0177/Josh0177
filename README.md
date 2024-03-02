@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Josh0177
-- 👀 I’m interested in League of Legends, Creating my first discord bot, and music.
-- 🌱 I’m currently learning programming at my university, and I am a Cybersecurity major.
+- 👋 Hi, I’m Josh
+- 👀 I’m interested in League of Legends, discord bots, programming, and music.
+- 🌱 I’m currently learning Cybersecurity at university for my major, and programming on the side.
 - 💞️ I’m looking to collaborate at some point in the future, just on my own for now...
-- 📫 How to reach me Josh#0177 on discord, please let me know that you're from github.
+- 📫 How to reach me: "tymorek" on discord, please let me know that you're from github.
 
 <!---
 Josh0177/Josh0177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
